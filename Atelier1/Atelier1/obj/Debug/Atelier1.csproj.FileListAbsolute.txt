@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\bin\Debug\Atelier1.exe
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.exe
+C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
