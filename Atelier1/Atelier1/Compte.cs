@@ -8,18 +8,18 @@ namespace Atelier1
 {
     class Compte
     {
-        private static int cpt=0;
-        private int id;
-        private double solde;
-        private Client titulaire;
-        private static double plafond = 4000;
+        protected static int cpt=0;
+        protected int id ;
+        protected MAD solde;
+        protected readonly Client titulaire;
+        protected static MAD plafond = new MAD(4000);
         public Compte()
         {
-            solde = 0;
+            solde = new MAD(0);
             this.id = ++cpt;
             titulaire = new Client();
         }
-        public Compte(double solde , Client Prop)
+        public Compte(MAD solde , Client Prop)
         {
             this.id = ++cpt;
             this.solde = solde;
@@ -29,47 +29,44 @@ namespace Atelier1
         {
             Console.WriteLine("Compte Numero : "+id+"\nPropriétaire :");
             this.titulaire.Afficher();
-            Console.WriteLine("Solde : " + solde + " DH");
+            Console.WriteLine("Solde : " + solde);
         }
-        public void Créditer(double montant)
+        public bool Créditer(MAD M)
         {
-            if (montant > 0)
+            MAD s = new MAD(0);
+            if (M > s)
             {
-                this.solde += montant;
-                Console.WriteLine("Montant bien ajouter ");
-                this.Afficher();
+                this.solde += M;
+                return true;
             }
-            else
-                Console.WriteLine("Entrez un montant positif");
+            return false;
         }
-        public void Débiter(double montant)
+        public bool Débiter(MAD montant)
         {
-            if (montant > 0 && montant<=plafond)
+            MAD s = new MAD(0);
+            if (montant > s && montant <=plafond)
             {
                 if (montant < this.solde)
                 {
                     this.solde -= montant;
-                    Console.WriteLine("Montant bien retirer ");
-                    this.Afficher();
+                    return true;
                 }
                 else
                 {
-                    Console.WriteLine("Solde insuffisant ");
-                    this.Afficher();
+                    return false;
                 }
             }
             else
-                Console.WriteLine("Entrez un montant correct , plafond : "+plafond);
+                return false;
         }
-        public void Verser(Compte C, double montant)
+        public bool Verser(Compte C, MAD montant)
         {
-            if(this.id!=C.id)
+            if (this.id != C.id)
             {
-                this.Débiter(montant);
-                C.Créditer(montant);
+                return this.Débiter(montant) && C.Créditer(montant);
             }
             else
-                Console.WriteLine("Impossible d'effectuer ce virement.");
+                return false;
         }
     }
     

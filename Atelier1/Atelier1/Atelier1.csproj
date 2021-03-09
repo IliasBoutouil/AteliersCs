@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Client.cs" />
     <Compile Include="Compte.cs" />
+    <Compile Include="CompteEpargne.cs" />
+    <Compile Include="MAD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

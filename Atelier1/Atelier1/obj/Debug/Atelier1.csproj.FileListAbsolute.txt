@@ -4,3 +4,16 @@ C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
 C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.csprojResolveAssemblyReference.cache
 C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.exe
 C:\Users\pc\Desktop\AteliersPoo\BI\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\bin\Debug\Atelier1.exe
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.exe
+C:\Users\user\Desktop\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
+C:\Users\pc\Downloads\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
+C:\Users\pc\Downloads\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.exe
+C:\Users\pc\Downloads\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.exe
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
