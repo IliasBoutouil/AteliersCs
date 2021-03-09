@@ -17,3 +17,6 @@ C:\Users\pc\Downloads\AteliersCs-main\AteliersCs-main\Atelier1\Atelier1\obj\Debu
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.exe
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
+C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.csprojResolveAssemblyReference.cache
