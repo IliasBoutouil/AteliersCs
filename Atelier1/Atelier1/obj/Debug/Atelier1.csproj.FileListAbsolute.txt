@@ -20,3 +20,9 @@ C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.pd
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
 C:\Users\pc\Desktop\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.csprojResolveAssemblyReference.cache
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe.config
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.exe
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.pdb
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.exe
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\bin\Debug\Atelier1.pdb
+D:\Emsi\Emsi S2\POO\AteliersPoo\Boutouil\Atelier1\Atelier1\obj\Debug\Atelier1.csprojResolveAssemblyReference.cache

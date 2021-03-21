@@ -47,5 +47,15 @@ namespace Atelier1
 
             return (M1.valeur - M2.valeur) <= 0 ? true : false;
         }
+        public static MAD operator *(MAD M1, MAD M2)
+        {
+
+            return new MAD(M1.valeur * M2.valeur);
+        }
+        public static MAD operator /(MAD M1, MAD M2)
+        {
+
+            return new MAD(M1.valeur / M2.valeur);
+        }
     }
 }

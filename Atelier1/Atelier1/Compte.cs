@@ -31,7 +31,12 @@ namespace Atelier1
             this.titulaire.Afficher();
             Console.WriteLine("Solde : " + solde.ToString());
         }
-        public bool Créditer(MAD M)
+        public void Afficher2()
+        {
+            Console.WriteLine("Compte Numero : " + id );
+            Console.WriteLine("Solde : " + solde.ToString());
+        }
+        public virtual bool Créditer(MAD M)
         {
             MAD s = new MAD(0);
             if (M > s)
@@ -47,7 +52,7 @@ namespace Atelier1
             }
             
         }
-        public bool Débiter(MAD montant)
+        public virtual bool Débiter(MAD montant)
         {
             MAD s = new MAD(0);
             if (montant > s && montant <=plafond)
@@ -71,7 +76,7 @@ namespace Atelier1
             }
                
         }
-        public bool Verser(Compte C, MAD montant)
+        public virtual bool Verser(Compte C, MAD montant)
         {
             if (this.id != C.id)
             {
